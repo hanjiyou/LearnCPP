@@ -5,17 +5,33 @@
 
 int
 main(){
-    int i;
-    char str[]="hello world";
-    const char * ptr="1234";//å®šä¹‰ä¸€ä¸ªæŒ‡å‘å­—ç¬¦å¸¸é‡çš„æŒ‡é’ˆï¼Œå› ä¸ºæ˜¯å¸¸é‡ æ‰€ä»¥æ— æ³•ä¿®æ”¹è¯¥æŒ‡é’ˆæŒ‡å‘çš„å…ƒç´ çš„æŒ‡ char const*pträ¸ä¹‹ç±»å‹
-    std::cout<<ptr[1]<<std::endl;
+    using namespace std;
+   //int i;
+   //char str[]="hello world";
+   //const char * ptr="1234";//¶¨ÒåÒ»¸öÖ¸Ïò×Ö·û³£Á¿µÄÖ¸Õë£¬ÒòÎªÊÇ³£Á¿ ËùÒÔÎŞ·¨ĞŞ¸Ä¸ÃÖ¸ÕëÖ¸ÏòµÄÔªËØµÄÖ¸ char const*ptrÓëÖ®ÀàĞÍ
+   //std::cout<<ptr[1]<<std::endl;
+   //
+   //char * const ptr2=str;
+   //char str2[]="world";
+   ////ptr2=str2;
+   ////ptr2="222";
+   //ptr2[1]='2';
+   //std::cout<<"=====================;";
+   //std::cout<<ptr2;
+    int array1[4]={1,2,3};
+
+    int *array2=new int[4]{1,2,4,3};
+    std::cout<<sizeof array1<<std::endl;
+    std::cout<<sizeof array2<<endl;
+    char * p1="1234";
+    cout<<p1[2]<<endl;
+    char char1[20]="bear";
+    char *char2=new char[strlen(char1)+1];
+    cout<<"char2µÄ³¤¶ÈÊÇ"<<strlen(char1)<<endl;
+    strcpy(char2,char1);
+    cout<<char2<<endl;
     
-    char * const ptr2=str;
-    char str2[]="world";
-    //ptr2=str2;
-    //ptr2="222";
-    ptr2[1]='2';
-    std::cout<<"=====================;";
-    std::cout<<ptr2;
+    int int1[4]{1,2,3,4};
+    cout<< sizeof(int1);
     return 0;
 }
