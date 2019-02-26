@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/CPPWorkSpace/LearnCPP/Learn/Chapter4/ArrayTest.cpp
+iostream
+-
+
+E:/CPPWorkSpace/LearnCPP/Learn/Chapter4/ConstPointTest.cpp
+iostream
+-
+
+E:/CPPWorkSpace/LearnCPP/Learn/Chapter4/PointTest.cpp
+
+E:/CPPWorkSpace/LearnCPP/Learn/Chapter4/StructTest.cpp
+
