@@ -21,3 +21,8 @@
 ②strcpy(newStr,oldStr)
 (2)常用函数
 ①sizeof(param)获取参数占用的字节数
+6.三种数组比较
+(1)vector 存储在堆 类似string，动态数组，可运行阶段设置对象长度，本质是使用new和delete，功能强大，效率稍低
+(2)array 存储在栈
+(3)数组 栈
+(4)array和vector赋值的时候  可使用arrayName.at(index)复制，防止下标过界，过界会报错，如果直接使用[]如果下标过界不报错但程序无法正确执行
