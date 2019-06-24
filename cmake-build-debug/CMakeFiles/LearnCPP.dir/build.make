@@ -108,12 +108,68 @@ CMakeFiles/LearnCPP.dir/Learn/Chapter4/ConstPointTest.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LearnCPP.dir/Learn/Chapter4/ConstPointTest.cpp.s"
 	E:\SoftwareDownLoad\MinGW\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\CPPWorkSpace\LearnCPP\Learn\Chapter4\ConstPointTest.cpp -o CMakeFiles\LearnCPP.dir\Learn\Chapter4\ConstPointTest.cpp.s
 
+CMakeFiles/LearnCPP.dir/Learn/Chapter5/ForDemo1.cpp.obj: CMakeFiles/LearnCPP.dir/flags.make
+CMakeFiles/LearnCPP.dir/Learn/Chapter5/ForDemo1.cpp.obj: ../Learn/Chapter5/ForDemo1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\CPPWorkSpace\LearnCPP\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/LearnCPP.dir/Learn/Chapter5/ForDemo1.cpp.obj"
+	E:\SoftwareDownLoad\MinGW\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LearnCPP.dir\Learn\Chapter5\ForDemo1.cpp.obj -c E:\CPPWorkSpace\LearnCPP\Learn\Chapter5\ForDemo1.cpp
+
+CMakeFiles/LearnCPP.dir/Learn/Chapter5/ForDemo1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LearnCPP.dir/Learn/Chapter5/ForDemo1.cpp.i"
+	E:\SoftwareDownLoad\MinGW\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\CPPWorkSpace\LearnCPP\Learn\Chapter5\ForDemo1.cpp > CMakeFiles\LearnCPP.dir\Learn\Chapter5\ForDemo1.cpp.i
+
+CMakeFiles/LearnCPP.dir/Learn/Chapter5/ForDemo1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LearnCPP.dir/Learn/Chapter5/ForDemo1.cpp.s"
+	E:\SoftwareDownLoad\MinGW\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\CPPWorkSpace\LearnCPP\Learn\Chapter5\ForDemo1.cpp -o CMakeFiles\LearnCPP.dir\Learn\Chapter5\ForDemo1.cpp.s
+
+CMakeFiles/LearnCPP.dir/Learn/Chapter5/WhileDemo1.cpp.obj: CMakeFiles/LearnCPP.dir/flags.make
+CMakeFiles/LearnCPP.dir/Learn/Chapter5/WhileDemo1.cpp.obj: ../Learn/Chapter5/WhileDemo1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\CPPWorkSpace\LearnCPP\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/LearnCPP.dir/Learn/Chapter5/WhileDemo1.cpp.obj"
+	E:\SoftwareDownLoad\MinGW\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LearnCPP.dir\Learn\Chapter5\WhileDemo1.cpp.obj -c E:\CPPWorkSpace\LearnCPP\Learn\Chapter5\WhileDemo1.cpp
+
+CMakeFiles/LearnCPP.dir/Learn/Chapter5/WhileDemo1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LearnCPP.dir/Learn/Chapter5/WhileDemo1.cpp.i"
+	E:\SoftwareDownLoad\MinGW\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\CPPWorkSpace\LearnCPP\Learn\Chapter5\WhileDemo1.cpp > CMakeFiles\LearnCPP.dir\Learn\Chapter5\WhileDemo1.cpp.i
+
+CMakeFiles/LearnCPP.dir/Learn/Chapter5/WhileDemo1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LearnCPP.dir/Learn/Chapter5/WhileDemo1.cpp.s"
+	E:\SoftwareDownLoad\MinGW\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\CPPWorkSpace\LearnCPP\Learn\Chapter5\WhileDemo1.cpp -o CMakeFiles\LearnCPP.dir\Learn\Chapter5\WhileDemo1.cpp.s
+
+CMakeFiles/LearnCPP.dir/Learn/Chapter5/ForDemo2.cpp.obj: CMakeFiles/LearnCPP.dir/flags.make
+CMakeFiles/LearnCPP.dir/Learn/Chapter5/ForDemo2.cpp.obj: ../Learn/Chapter5/ForDemo2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\CPPWorkSpace\LearnCPP\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/LearnCPP.dir/Learn/Chapter5/ForDemo2.cpp.obj"
+	E:\SoftwareDownLoad\MinGW\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LearnCPP.dir\Learn\Chapter5\ForDemo2.cpp.obj -c E:\CPPWorkSpace\LearnCPP\Learn\Chapter5\ForDemo2.cpp
+
+CMakeFiles/LearnCPP.dir/Learn/Chapter5/ForDemo2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LearnCPP.dir/Learn/Chapter5/ForDemo2.cpp.i"
+	E:\SoftwareDownLoad\MinGW\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\CPPWorkSpace\LearnCPP\Learn\Chapter5\ForDemo2.cpp > CMakeFiles\LearnCPP.dir\Learn\Chapter5\ForDemo2.cpp.i
+
+CMakeFiles/LearnCPP.dir/Learn/Chapter5/ForDemo2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LearnCPP.dir/Learn/Chapter5/ForDemo2.cpp.s"
+	E:\SoftwareDownLoad\MinGW\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\CPPWorkSpace\LearnCPP\Learn\Chapter5\ForDemo2.cpp -o CMakeFiles\LearnCPP.dir\Learn\Chapter5\ForDemo2.cpp.s
+
+CMakeFiles/LearnCPP.dir/Learn/Chapter5/WhileDemoCinEof.cpp.obj: CMakeFiles/LearnCPP.dir/flags.make
+CMakeFiles/LearnCPP.dir/Learn/Chapter5/WhileDemoCinEof.cpp.obj: ../Learn/Chapter5/WhileDemoCinEof.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\CPPWorkSpace\LearnCPP\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/LearnCPP.dir/Learn/Chapter5/WhileDemoCinEof.cpp.obj"
+	E:\SoftwareDownLoad\MinGW\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LearnCPP.dir\Learn\Chapter5\WhileDemoCinEof.cpp.obj -c E:\CPPWorkSpace\LearnCPP\Learn\Chapter5\WhileDemoCinEof.cpp
+
+CMakeFiles/LearnCPP.dir/Learn/Chapter5/WhileDemoCinEof.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LearnCPP.dir/Learn/Chapter5/WhileDemoCinEof.cpp.i"
+	E:\SoftwareDownLoad\MinGW\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\CPPWorkSpace\LearnCPP\Learn\Chapter5\WhileDemoCinEof.cpp > CMakeFiles\LearnCPP.dir\Learn\Chapter5\WhileDemoCinEof.cpp.i
+
+CMakeFiles/LearnCPP.dir/Learn/Chapter5/WhileDemoCinEof.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LearnCPP.dir/Learn/Chapter5/WhileDemoCinEof.cpp.s"
+	E:\SoftwareDownLoad\MinGW\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\CPPWorkSpace\LearnCPP\Learn\Chapter5\WhileDemoCinEof.cpp -o CMakeFiles\LearnCPP.dir\Learn\Chapter5\WhileDemoCinEof.cpp.s
+
 # Object files for target LearnCPP
 LearnCPP_OBJECTS = \
 "CMakeFiles/LearnCPP.dir/Learn/Chapter4/ArrayTest.cpp.obj" \
 "CMakeFiles/LearnCPP.dir/Learn/Chapter4/StructTest.cpp.obj" \
 "CMakeFiles/LearnCPP.dir/Learn/Chapter4/PointTest.cpp.obj" \
-"CMakeFiles/LearnCPP.dir/Learn/Chapter4/ConstPointTest.cpp.obj"
+"CMakeFiles/LearnCPP.dir/Learn/Chapter4/ConstPointTest.cpp.obj" \
+"CMakeFiles/LearnCPP.dir/Learn/Chapter5/ForDemo1.cpp.obj" \
+"CMakeFiles/LearnCPP.dir/Learn/Chapter5/WhileDemo1.cpp.obj" \
+"CMakeFiles/LearnCPP.dir/Learn/Chapter5/ForDemo2.cpp.obj" \
+"CMakeFiles/LearnCPP.dir/Learn/Chapter5/WhileDemoCinEof.cpp.obj"
 
 # External object files for target LearnCPP
 LearnCPP_EXTERNAL_OBJECTS =
@@ -122,11 +178,15 @@ LearnCPP.exe: CMakeFiles/LearnCPP.dir/Learn/Chapter4/ArrayTest.cpp.obj
 LearnCPP.exe: CMakeFiles/LearnCPP.dir/Learn/Chapter4/StructTest.cpp.obj
 LearnCPP.exe: CMakeFiles/LearnCPP.dir/Learn/Chapter4/PointTest.cpp.obj
 LearnCPP.exe: CMakeFiles/LearnCPP.dir/Learn/Chapter4/ConstPointTest.cpp.obj
+LearnCPP.exe: CMakeFiles/LearnCPP.dir/Learn/Chapter5/ForDemo1.cpp.obj
+LearnCPP.exe: CMakeFiles/LearnCPP.dir/Learn/Chapter5/WhileDemo1.cpp.obj
+LearnCPP.exe: CMakeFiles/LearnCPP.dir/Learn/Chapter5/ForDemo2.cpp.obj
+LearnCPP.exe: CMakeFiles/LearnCPP.dir/Learn/Chapter5/WhileDemoCinEof.cpp.obj
 LearnCPP.exe: CMakeFiles/LearnCPP.dir/build.make
 LearnCPP.exe: CMakeFiles/LearnCPP.dir/linklibs.rsp
 LearnCPP.exe: CMakeFiles/LearnCPP.dir/objects1.rsp
 LearnCPP.exe: CMakeFiles/LearnCPP.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\CPPWorkSpace\LearnCPP\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable LearnCPP.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\CPPWorkSpace\LearnCPP\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable LearnCPP.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\LearnCPP.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

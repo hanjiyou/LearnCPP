@@ -1,8 +1,8 @@
 //
 // Created by han on 2019/1/22.
 //
-#include <iostream>
-using namespace std;
+//#include <iostream>
+//using namespace std;
 /*
 int main(){
 //情况1 cin会根据空白（空格 换行 制表符）来决定输入结束位置

@@ -19,6 +19,7 @@
 (1)c风格字符串
 ①strlen(array)获取字符数组的有效字节数
 ②strcpy(newStr,oldStr)
+③strcmp(str1,str2) = 0;> 1;< -1
 (2)常用函数
 ①sizeof(param)获取参数占用的字节数
 6.三种数组比较
@@ -26,3 +27,6 @@
 (2)array 存储在栈
 (3)数组 栈
 (4)array和vector赋值的时候  可使用arrayName.at(index)复制，防止下标过界，过界会报错，如果直接使用[]如果下标过界不报错但程序无法正确执行
+7.c风格字符串与string字符串的异同
+(1)c风格字符串 char arr[n]="abc" ,arr代表地址，无法直接使用关系运算符
+(2)string arr="abc",arr代表地址，但是可以直接使用关系运算符，因为string类重载了关系运算符

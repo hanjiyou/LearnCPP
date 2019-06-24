@@ -94,6 +94,18 @@
 		<Unit filename="E:/CPPWorkSpace/LearnCPP/Learn/Chapter4/StructTest.cpp">
 			<Option target="LearnCPP"/>
 		</Unit>
+		<Unit filename="E:/CPPWorkSpace/LearnCPP/Learn/Chapter5/ForDemo1.cpp">
+			<Option target="LearnCPP"/>
+		</Unit>
+		<Unit filename="E:/CPPWorkSpace/LearnCPP/Learn/Chapter5/ForDemo2.cpp">
+			<Option target="LearnCPP"/>
+		</Unit>
+		<Unit filename="E:/CPPWorkSpace/LearnCPP/Learn/Chapter5/WhileDemo1.cpp">
+			<Option target="LearnCPP"/>
+		</Unit>
+		<Unit filename="E:/CPPWorkSpace/LearnCPP/Learn/Chapter5/WhileDemoCinEof.cpp">
+			<Option target="LearnCPP"/>
+		</Unit>
 		<Unit filename="E:/CPPWorkSpace/LearnCPP/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

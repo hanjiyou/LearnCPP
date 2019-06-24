@@ -230,6 +230,114 @@ Learn/Chapter4/StructTest.cpp.s:
 	$(MAKE) -f CMakeFiles\LearnCPP.dir\build.make CMakeFiles/LearnCPP.dir/Learn/Chapter4/StructTest.cpp.s
 .PHONY : Learn/Chapter4/StructTest.cpp.s
 
+Learn/Chapter5/ForDemo1.obj: Learn/Chapter5/ForDemo1.cpp.obj
+
+.PHONY : Learn/Chapter5/ForDemo1.obj
+
+# target to build an object file
+Learn/Chapter5/ForDemo1.cpp.obj:
+	$(MAKE) -f CMakeFiles\LearnCPP.dir\build.make CMakeFiles/LearnCPP.dir/Learn/Chapter5/ForDemo1.cpp.obj
+.PHONY : Learn/Chapter5/ForDemo1.cpp.obj
+
+Learn/Chapter5/ForDemo1.i: Learn/Chapter5/ForDemo1.cpp.i
+
+.PHONY : Learn/Chapter5/ForDemo1.i
+
+# target to preprocess a source file
+Learn/Chapter5/ForDemo1.cpp.i:
+	$(MAKE) -f CMakeFiles\LearnCPP.dir\build.make CMakeFiles/LearnCPP.dir/Learn/Chapter5/ForDemo1.cpp.i
+.PHONY : Learn/Chapter5/ForDemo1.cpp.i
+
+Learn/Chapter5/ForDemo1.s: Learn/Chapter5/ForDemo1.cpp.s
+
+.PHONY : Learn/Chapter5/ForDemo1.s
+
+# target to generate assembly for a file
+Learn/Chapter5/ForDemo1.cpp.s:
+	$(MAKE) -f CMakeFiles\LearnCPP.dir\build.make CMakeFiles/LearnCPP.dir/Learn/Chapter5/ForDemo1.cpp.s
+.PHONY : Learn/Chapter5/ForDemo1.cpp.s
+
+Learn/Chapter5/ForDemo2.obj: Learn/Chapter5/ForDemo2.cpp.obj
+
+.PHONY : Learn/Chapter5/ForDemo2.obj
+
+# target to build an object file
+Learn/Chapter5/ForDemo2.cpp.obj:
+	$(MAKE) -f CMakeFiles\LearnCPP.dir\build.make CMakeFiles/LearnCPP.dir/Learn/Chapter5/ForDemo2.cpp.obj
+.PHONY : Learn/Chapter5/ForDemo2.cpp.obj
+
+Learn/Chapter5/ForDemo2.i: Learn/Chapter5/ForDemo2.cpp.i
+
+.PHONY : Learn/Chapter5/ForDemo2.i
+
+# target to preprocess a source file
+Learn/Chapter5/ForDemo2.cpp.i:
+	$(MAKE) -f CMakeFiles\LearnCPP.dir\build.make CMakeFiles/LearnCPP.dir/Learn/Chapter5/ForDemo2.cpp.i
+.PHONY : Learn/Chapter5/ForDemo2.cpp.i
+
+Learn/Chapter5/ForDemo2.s: Learn/Chapter5/ForDemo2.cpp.s
+
+.PHONY : Learn/Chapter5/ForDemo2.s
+
+# target to generate assembly for a file
+Learn/Chapter5/ForDemo2.cpp.s:
+	$(MAKE) -f CMakeFiles\LearnCPP.dir\build.make CMakeFiles/LearnCPP.dir/Learn/Chapter5/ForDemo2.cpp.s
+.PHONY : Learn/Chapter5/ForDemo2.cpp.s
+
+Learn/Chapter5/WhileDemo1.obj: Learn/Chapter5/WhileDemo1.cpp.obj
+
+.PHONY : Learn/Chapter5/WhileDemo1.obj
+
+# target to build an object file
+Learn/Chapter5/WhileDemo1.cpp.obj:
+	$(MAKE) -f CMakeFiles\LearnCPP.dir\build.make CMakeFiles/LearnCPP.dir/Learn/Chapter5/WhileDemo1.cpp.obj
+.PHONY : Learn/Chapter5/WhileDemo1.cpp.obj
+
+Learn/Chapter5/WhileDemo1.i: Learn/Chapter5/WhileDemo1.cpp.i
+
+.PHONY : Learn/Chapter5/WhileDemo1.i
+
+# target to preprocess a source file
+Learn/Chapter5/WhileDemo1.cpp.i:
+	$(MAKE) -f CMakeFiles\LearnCPP.dir\build.make CMakeFiles/LearnCPP.dir/Learn/Chapter5/WhileDemo1.cpp.i
+.PHONY : Learn/Chapter5/WhileDemo1.cpp.i
+
+Learn/Chapter5/WhileDemo1.s: Learn/Chapter5/WhileDemo1.cpp.s
+
+.PHONY : Learn/Chapter5/WhileDemo1.s
+
+# target to generate assembly for a file
+Learn/Chapter5/WhileDemo1.cpp.s:
+	$(MAKE) -f CMakeFiles\LearnCPP.dir\build.make CMakeFiles/LearnCPP.dir/Learn/Chapter5/WhileDemo1.cpp.s
+.PHONY : Learn/Chapter5/WhileDemo1.cpp.s
+
+Learn/Chapter5/WhileDemoCinEof.obj: Learn/Chapter5/WhileDemoCinEof.cpp.obj
+
+.PHONY : Learn/Chapter5/WhileDemoCinEof.obj
+
+# target to build an object file
+Learn/Chapter5/WhileDemoCinEof.cpp.obj:
+	$(MAKE) -f CMakeFiles\LearnCPP.dir\build.make CMakeFiles/LearnCPP.dir/Learn/Chapter5/WhileDemoCinEof.cpp.obj
+.PHONY : Learn/Chapter5/WhileDemoCinEof.cpp.obj
+
+Learn/Chapter5/WhileDemoCinEof.i: Learn/Chapter5/WhileDemoCinEof.cpp.i
+
+.PHONY : Learn/Chapter5/WhileDemoCinEof.i
+
+# target to preprocess a source file
+Learn/Chapter5/WhileDemoCinEof.cpp.i:
+	$(MAKE) -f CMakeFiles\LearnCPP.dir\build.make CMakeFiles/LearnCPP.dir/Learn/Chapter5/WhileDemoCinEof.cpp.i
+.PHONY : Learn/Chapter5/WhileDemoCinEof.cpp.i
+
+Learn/Chapter5/WhileDemoCinEof.s: Learn/Chapter5/WhileDemoCinEof.cpp.s
+
+.PHONY : Learn/Chapter5/WhileDemoCinEof.s
+
+# target to generate assembly for a file
+Learn/Chapter5/WhileDemoCinEof.cpp.s:
+	$(MAKE) -f CMakeFiles\LearnCPP.dir\build.make CMakeFiles/LearnCPP.dir/Learn/Chapter5/WhileDemoCinEof.cpp.s
+.PHONY : Learn/Chapter5/WhileDemoCinEof.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -251,6 +359,18 @@ help:
 	@echo ... Learn/Chapter4/StructTest.obj
 	@echo ... Learn/Chapter4/StructTest.i
 	@echo ... Learn/Chapter4/StructTest.s
+	@echo ... Learn/Chapter5/ForDemo1.obj
+	@echo ... Learn/Chapter5/ForDemo1.i
+	@echo ... Learn/Chapter5/ForDemo1.s
+	@echo ... Learn/Chapter5/ForDemo2.obj
+	@echo ... Learn/Chapter5/ForDemo2.i
+	@echo ... Learn/Chapter5/ForDemo2.s
+	@echo ... Learn/Chapter5/WhileDemo1.obj
+	@echo ... Learn/Chapter5/WhileDemo1.i
+	@echo ... Learn/Chapter5/WhileDemo1.s
+	@echo ... Learn/Chapter5/WhileDemoCinEof.obj
+	@echo ... Learn/Chapter5/WhileDemoCinEof.i
+	@echo ... Learn/Chapter5/WhileDemoCinEof.s
 .PHONY : help
 
 
